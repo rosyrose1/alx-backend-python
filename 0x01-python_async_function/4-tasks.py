@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-'''Took the code from wait_n and altered 
-  it into a new function task_wait_n. 
+'''Took the code from wait_n and altered
+  it into a new function task_wait_n.
 '''
 import asyncio
 from typing import List
